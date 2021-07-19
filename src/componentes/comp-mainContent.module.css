@@ -1,0 +1,7 @@
+.mainContent {
+  min-height: 350px;
+  width: 600px;
+  background-color: #e06666;
+  display: inline-block;
+  vertical-align: top;
+}
